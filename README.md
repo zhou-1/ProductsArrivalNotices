@@ -1,6 +1,7 @@
 # productsArrivalNotices
 During this serious Coronavirus period, hope my Arrival Notices project for products (like face mask, hand sanitizer) in market can help a little bit. :heart:    
-[Current Version]: This project can help you check whether your ideal products arrive new batch or not.     
+[Current Version] This project can help you check whether your ideal products arrive new batch or not.      
+[Future version] Can help you detect the process of product in a while loop, until it detects that there is a new batch, it will send you email automatically and shuts down.    
 
 
 There are 2 core parts in my program.    
