@@ -1,5 +1,6 @@
 # productsArrivalNotices
-Arrival Notices project for products (like face mask, hand sanitizer) in market.    
+During this serious Coronavirus period, hope my Arrival Notices project for products (like face mask, hand sanitizer) in market can help a little bit. :heart:    
+This project can help you check whether your ideal products arrive new batch or not.     
 
 
 
