@@ -2,7 +2,7 @@ During this serious Coronavirus period, hope my Arrival Notices project for prod
 
 <hr>   
 
-# productsArrivalNotices   
+# ProductsArrivalNotices   
 <b>[Current Version]</b>     
 This project can help you check whether good-quality products (5 best seller) in Amazon for protecting yourself in serious coronavirus period can be purchased now or not.     
 Can help you detect the process of product in a while loop, it will send you email automatically and repeatedly until you shuts down the program.     
