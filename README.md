@@ -12,6 +12,13 @@ Can automatic update links for best-seller products (https://www.amazon.com/Best
 Can detect good-quality products in Target, Walmart, yamibuy, officedepot.    
 Can let user type in link(s) for their ideal products.     
 
+## Demo   
+Demo video can be viewed [here]().    
+
+### Images gallery    
+Demo images for this project can viewed below:     
+
+
 
 ## How to set up this project?    
 
