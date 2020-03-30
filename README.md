@@ -26,11 +26,43 @@ First, please clone/download my project.
 git clone https://github.com/zhou-1/productsArrivalNotices.git    
 ```
 
+Second, in main.py file, add in your own gmail address, password of your gmail, and email address you would like to send email to.   
+```
+# email address used to send to; any email address is fine
+TO = 'XXXXX@outlook.com'
+# Gmail Sign In
+gmail_sender = 'XXXX@gmail.com'
+gmail_passwd = 'XXXXXX'
+```
+You can also change the contents for subject, text of email:    
+```
+# email subject
+SUBJECT = 'Here is the summary for products you are interested in!!'
+# contents of email
+# TEXT = 'Product of below link is in stock currently: ' + str(url) 
+# error may be number/size of text
+# Send an attachment for report
+TEXT = "Please download the attached txt file for your report."
+```
+
+Third, in your terminal, type in:    
+```
+python 
+```
+
 ### What you need?     
+Python 3     
+Libraries needed in Python:   
+1. requests     
+2. time    
+3. smtplib        
+4. email      
+5. lxml    
 
 
-There are 2 core parts in my program.    
-## 1. Send email in Gmail with Python     
+## Core parts   
+Currently, there are 2 core parts in my program.    
+### 1. Send email in Gmail with Python     
 Send email in gmail account with Python.     
 Here will be one popular quetion for "Login credentials with Gmail SMTP".      
 You could change the security level for SMTP Authentication Error in this link: https://support.google.com/accounts/answer/6010255     
@@ -40,7 +72,7 @@ After you trun on the security level, the status will show like velow image:
 ![lsa2](img/lessSecureApp2.PNG)     
 
 
-## 2. Check availiabilty in website (Amazon)     
+### 2. Check availiabilty in website (Amazon)     
 Checking availaility in amazon website with product's ID.    
 
 ```
