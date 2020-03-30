@@ -1,4 +1,4 @@
-During this serious Coronavirus period, hope my Arrival Notices project for products (like face mask, hand sanitizer, Medical Exam Gloves) in market can help a little bit. :heart:    
+During this serious Coronavirus period, hope my Arrival Notices project for products (like surgical mask, hand sanitizer, Medical Exam Gloves) in market can help a little bit. :heart:    
 
 <hr>   
 
