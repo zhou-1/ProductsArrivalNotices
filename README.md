@@ -21,6 +21,10 @@ Demo images for this project can viewed below:
 
 
 ## How to set up this project?    
+First, please clone/download my project.    
+```
+git clone https://github.com/zhou-1/productsArrivalNotices.git    
+```
 
 ### What you need?     
 
