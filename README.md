@@ -17,7 +17,8 @@ Demo video can be viewed [here](https://www.youtube.com/watch?v=4Alm5tWSpkE&feat
 
 ### Images gallery    
 Demo images for this project can viewed below:     
-![v1-img1]()     
+![v1-img1](img/result1.PNG)       
+![v1-img2](img/result2.PNG)    
 
 
 ## How to set up this project?    
