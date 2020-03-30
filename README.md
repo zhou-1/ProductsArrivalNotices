@@ -13,7 +13,7 @@ Can detect good-quality products in Target, Walmart, yamibuy, officedepot.
 Can let user type in link(s) for their ideal products.     
 
 ## Demo   
-Demo video can be viewed [here]().    
+Demo video can be viewed [here](https://www.youtube.com/watch?v=4Alm5tWSpkE&feature=youtu.be).     
 
 ### Images gallery    
 Demo images for this project can viewed below:     
