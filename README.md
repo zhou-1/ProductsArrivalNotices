@@ -17,7 +17,7 @@ Demo video can be viewed [here](https://www.youtube.com/watch?v=4Alm5tWSpkE&feat
 
 ### Images gallery    
 Demo images for this project can viewed below:     
-
+![v1-img1]()     
 
 
 ## How to set up this project?    
@@ -47,8 +47,9 @@ TEXT = "Please download the attached txt file for your report."
 
 Third, in your terminal, type in:    
 ```
-python 
+python main.py     
 ```
+The program will run automatically and send report as attachment to your email.    
 
 ### What you need?     
 Python 3     
