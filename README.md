@@ -27,7 +27,7 @@ First, please clone/download my project.
 git clone https://github.com/zhou-1/productsArrivalNotices.git    
 ```
 
-Second, in main.py file, add in your own gmail address, password of your gmail, and email address you would like to send email to.   
+Second, in main_program_V1/main.py file, add in your own gmail address, password of your gmail, and email address you would like to send email to.   
 ```
 # email address used to send to; any email address is fine
 TO = 'XXXXX@outlook.com'
@@ -35,7 +35,7 @@ TO = 'XXXXX@outlook.com'
 gmail_sender = 'XXXX@gmail.com'
 gmail_passwd = 'XXXXXX'
 ```
-You can also change the contents for subject, text of email:    
+You can also change the contents for subject, text of email if you like:    
 ```
 # email subject
 SUBJECT = 'Here is the summary for products you are interested in!!'
