@@ -3,17 +3,24 @@ During this serious Coronavirus period, hope my Arrival Notices project for prod
 <hr>   
 
 # ProductsArrivalNotices   
-<b>[Current Version]</b>     
+<b>[Current Version - V2]</b>     
 This project can help you check whether 3 kinds (face mask, hand sanitizer, Medical Exam Gloves) of good-quality products (5 best sellers) in Amazon for protecting yourself in serious coronavirus period can be purchased now or not.     
 Can help you detect the process of product in a while loop, it will send you email automatically and repeatedly until you shuts down the program.     
+Can automaticly detect 5 best-seller links from best-seller products page (like the link below: https://www.amazon.com/Best-Sellers-Industrial-Scientific-Medical-Exam-Gloves/zgbs/industrial/8404645011) for 3 medical category in Amazon.     
+
+<b>[First Version - V1]</b>     
+This project can help you check whether 3 kinds (face mask, hand sanitizer, Medical Exam Gloves) of good-quality products (5 best sellers) in Amazon for protecting yourself in serious coronavirus period can be purchased now or not.     
+Can help you detect the process of product in a while loop, it will send you email automatically and repeatedly until you shuts down the program.  
 
 <b>[Future version]</b>     
-Can automatic update links for best-seller products (https://www.amazon.com/Best-Sellers-Industrial-Scientific-Medical-Exam-Gloves/zgbs/industrial/8404645011) in Amazon.    
+Store privacy information in a text, my main program can extract infromation from text.     
+Can let user type in link(s) for their ideal products.       
 Can detect good-quality products in Target, Walmart, yamibuy, officedepot.    
-Can let user type in link(s) for their ideal products.     
+
 
 ## Demo   
-Demo video can be viewed [here](https://www.youtube.com/watch?v=4Alm5tWSpkE&feature=youtu.be).     
+Demo video for current version can be viewed [here](https://www.youtube.com/watch?v=lhLaC7M329c&feature=youtu.be).         
+Demo video for V1 can be viewed [here](https://www.youtube.com/watch?v=4Alm5tWSpkE&feature=youtu.be).       
 
 ### Images gallery    
 Demo images for this project can viewed below:     
@@ -63,7 +70,7 @@ Libraries needed in Python:
 
 
 ## Core parts   
-Currently, there are 2 core parts in my program.    
+Currently, there are 3 core parts in my program.    
 ### 1. Send email in Gmail with Python     
 Send email in gmail account with Python.     
 Here will be one popular quetion for "Login credentials with Gmail SMTP".      
@@ -87,10 +94,17 @@ AVAILABILITY = ''.join(RAw_AVAILABILITY).strip()
 This will return the result of product's availabilty based on its ID.    
 
 
+### 3. Check Top 5 products from Amazon's Best Seller page        
+Checking Top 5 best seller products from recommanded page.   
 
+```
+# check for product link in href
+XPATH_HREF = '//span[@class = "aok-inline-block zg-item"]/a[@class ="a-link-normal"]/@href'
+RAw_HREF = doc.xpath(XPATH_HREF) 
+#print(type(RAw_HREF)) # list
+```
 
-
-
+This will return a list for links for those 5 best-seller products.    
 
 
 
