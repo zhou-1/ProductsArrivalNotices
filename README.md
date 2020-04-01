@@ -17,17 +17,18 @@ During this serious Coronavirus period, hope my Arrival Notices project for prod
 
 
 ## Demo   
-Demo video for current version can be viewed [here](https://www.youtube.com/watch?v=iWX8yRLhQ8w&feature=youtu.be).     
+<b>Demo video for current version can be viewed [here](https://www.youtube.com/watch?v=iWX8yRLhQ8w&feature=youtu.be). </b>        
 Demo video for V2 can be viewed [here](https://www.youtube.com/watch?v=lhLaC7M329c&feature=youtu.be).         
 Demo video for V1 can be viewed [here](https://www.youtube.com/watch?v=4Alm5tWSpkE&feature=youtu.be).       
 
 ### Images gallery    
 Demo images for this project can viewed below.     
-Content of email will be looked like below:    
+<b>Content of email will be looked like below:</b>       
 ![v1-img1](img/result1.PNG)       
 
-Current attachment looks like below:     
+<b>Current attachment looks like below:</b>         
 ![v1-img4](img/attach2.PNG)     
+     
 Previous attachment looks like below:   
 ![v1-img3](img/attach1.PNG)     
 ![v1-img2](img/result2.PNG)     
