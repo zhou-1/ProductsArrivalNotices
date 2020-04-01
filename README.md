@@ -27,7 +27,7 @@ Content of email will be looked like below:
 ![v1-img1](img/result1.PNG)       
 
 Current attachment looks like below:     
-![v1-img4](img/attach3.PNG)     
+![v1-img4](img/attach2.PNG)     
 Previous attachment looks like below:   
 ![v1-img3](img/attach1.PNG)     
 ![v1-img2](img/result2.PNG)     
