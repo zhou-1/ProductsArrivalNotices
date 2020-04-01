@@ -4,18 +4,18 @@ During this serious Coronavirus period, hope my Arrival Notices project for prod
 
 # ProductsArrivalNotices   
 <b>[Current Version - V2]</b>     
-This project can help you check whether 3 kinds (face mask, hand sanitizer, Medical Exam Gloves) of good-quality products (5 best sellers) in Amazon for protecting yourself in serious coronavirus period can be purchased now or not.     
-Can help you detect the process of product in a while loop, it will send you email automatically and repeatedly until you shuts down the program.     
-Can automaticly detect 5 best-seller links from best-seller products page (like the link below: https://www.amazon.com/Best-Sellers-Industrial-Scientific-Medical-Exam-Gloves/zgbs/industrial/8404645011) for 3 medical category in Amazon.     
+1. This project can help you check whether 3 kinds (face mask, hand sanitizer, Medical Exam Gloves) of good-quality products (5 best sellers) in Amazon for protecting yourself in serious coronavirus period can be purchased now or not.     
+2. This project can help you detect the process of product in a while loop, it will send you email automatically and repeatedly until you shuts down the program.     
+3. This project can automaticly detect and update 5 best-seller links from best-seller products page (like the link below: https://www.amazon.com/Best-Sellers-Industrial-Scientific-Medical-Exam-Gloves/zgbs/industrial/8404645011) for 3 medical category in Amazon.     
 
 <b>[First Version - V1]</b>     
-This project can help you check whether 3 kinds (face mask, hand sanitizer, Medical Exam Gloves) of good-quality products (5 best sellers) in Amazon for protecting yourself in serious coronavirus period can be purchased now or not.     
-Can help you detect the process of product in a while loop, it will send you email automatically and repeatedly until you shuts down the program.  
+1. This project can help you check whether 3 kinds (face mask, hand sanitizer, Medical Exam Gloves) of good-quality products (5 best sellers) in Amazon for protecting yourself in serious coronavirus period can be purchased now or not.     
+2. This project can help you detect the process of product in a while loop, it will send you email automatically and repeatedly until you shuts down the program.    
 
 <b>[Future version]</b>     
-Store privacy information in a text, my main program can extract infromation from text.     
-Can let user type in link(s) for their ideal products.       
-Can detect good-quality products in Target, Walmart, yamibuy, officedepot.    
+1. Store privacy information in a text, my main program can extract infromation from text.     
+2. Can let user type in link(s) for their ideal products.       
+3. Can detect good-quality products in Target, Walmart, yamibuy, officedepot.    
 
 
 ## Demo   
