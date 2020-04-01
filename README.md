@@ -1,4 +1,4 @@
-During this serious Coronavirus period, hope my Arrival Notices project for products (like surgical mask :mask:, hand sanitizer :open_hands:, Medical Exam Gloves  ![gloves](https://github.com/buildkite/emojis/blob/master/img-apple-64/1f9e4.png) ) in market can help a little bit. :heart:    
+During this serious Coronavirus period, hope my Arrival Notices project for products (like surgical mask :mask:, hand sanitizer :open_hands:, Medical Exam Gloves :snowman:) in market can help a little bit. :heart:    
 
 <hr>   
 
