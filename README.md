@@ -7,8 +7,8 @@ During this serious Coronavirus period, hope my Arrival Notices project for prod
 1. This project can help you check whether 3 kinds (face mask, hand sanitizer, Medical Exam Gloves) of good-quality products (5 best sellers) in Amazon for protecting yourself in serious coronavirus period can be purchased now or not.     
 2. This project can help you detect the process of product in a while loop, it will send you email automatically and repeatedly until you shuts down the program.     
 3. This project can automaticly detect and update 5 best-seller links from best-seller products page (like the link below: https://www.amazon.com/Best-Sellers-Industrial-Scientific-Medical-Exam-Gloves/zgbs/industrial/8404645011) for 3 medical category in Amazon.     
-4. Store privacy information in a text, my main program can extract infromation from text.     
-5. Can let user type in link(s) for their ideal products. 
+4. This project allows user to store privacy information in a text, my main program can extract infromation from text.     
+5. This project can let user type in link(s) for their ideal products.    
 
 <b>[First Version & Second Version - V1 & V2]</b>     
 1. This project can help you check whether 3 kinds (face mask, hand sanitizer, Medical Exam Gloves) of good-quality products (5 best sellers) in Amazon for protecting yourself in serious coronavirus period can be purchased now or not.     
@@ -42,7 +42,7 @@ First, please clone/download my project.
 git clone https://github.com/zhou-1/productsArrivalNotices.git    
 ```
 
-Second, in main_program_V3/info.txt file,add in your own gmail address, password of your gmail, and email address you would like to send email to.   
+Second, in main_program_V3/info.txt file, (Please see the comments at the top of txt file carefully!!) add in your own gmail address, password of your gmail, and email address you would like to send email to.   
 ```
 TO=/XXXXX@outlook.com/
 gmail_sender=/XXXXXXX@gmail.com/
@@ -112,9 +112,4 @@ RAw_HREF = doc.xpath(XPATH_HREF)
 ```
 
 This will return a list for links for those 5 best-seller products.    
-
-
-
-
-
 
