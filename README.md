@@ -23,16 +23,16 @@ Demo video for V1 can be viewed [here](https://www.youtube.com/watch?v=4Alm5tWSp
 
 ### Images gallery    
 Demo images for this project can viewed below.     
-<b>Content of email will be looked like below:</b>       
+#### <b>Content of email will be looked like below:</b>       
 ![v1-img1](img/result1.PNG)       
 
-<b>Current attachment looks like below:</b>         
+#### <b>Current attachment looks like below:</b>         
 ![v1-img4](img/attach2.PNG)     
      
-Previous attachment looks like below:    
-Version 2:    
+#### Previous attachment looks like below:    
+##### Version 2:    
 ![v1-img3](img/attach1.PNG)     
-Version 1:    
+##### Version 1:    
 ![v1-img2](img/result2.PNG)     
 
 
