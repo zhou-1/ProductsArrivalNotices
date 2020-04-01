@@ -1,0 +1,11 @@
+//Attention!
+//Please just change the content inside /*****/, between '/' ....  '/' these 2 symbols.
+//Keep other stuff the same!
+//i.e. 
+//Current: To=/XXXX@outlook.com/
+//yours: To=/worldpeace@yahoo.com/
+
+
+TO=/XXXXX@outlook.com/
+gmail_sender=/XXXXXXX@gmail.com/
+gmail_passwd=/**********/
