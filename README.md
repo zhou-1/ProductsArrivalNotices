@@ -1,25 +1,24 @@
-During this serious Coronavirus period, hope my Arrival Notices project for products (like surgical mask :mask:, hand sanitizer :open_hands:, Medical Exam Gloves :snowman:) in market can help a little bit. :heart:    
+During this serious Coronavirus period, hope my Arrival Notices project for products (like surgical mask :mask:, hand sanitizer :open_hands:, Medical Exam Gloves :snowman:) in market (Amazon) can help a little bit. :heart:    
 
 <hr>   
 
 # ProductsArrivalNotices   
-<b>[Current Version - V2]</b>     
+<b>[Current Version - V3]</b>     
 1. This project can help you check whether 3 kinds (face mask, hand sanitizer, Medical Exam Gloves) of good-quality products (5 best sellers) in Amazon for protecting yourself in serious coronavirus period can be purchased now or not.     
 2. This project can help you detect the process of product in a while loop, it will send you email automatically and repeatedly until you shuts down the program.     
 3. This project can automaticly detect and update 5 best-seller links from best-seller products page (like the link below: https://www.amazon.com/Best-Sellers-Industrial-Scientific-Medical-Exam-Gloves/zgbs/industrial/8404645011) for 3 medical category in Amazon.     
+4. Store privacy information in a text, my main program can extract infromation from text.     
+5. Can let user type in link(s) for their ideal products. 
 
-<b>[First Version - V1]</b>     
+<b>[First Version & Second Version - V1 & V2]</b>     
 1. This project can help you check whether 3 kinds (face mask, hand sanitizer, Medical Exam Gloves) of good-quality products (5 best sellers) in Amazon for protecting yourself in serious coronavirus period can be purchased now or not.     
-2. This project can help you detect the process of product in a while loop, it will send you email automatically and repeatedly until you shuts down the program.    
-
-<b>[Future version]</b>     
-1. Store privacy information in a text, my main program can extract infromation from text.     
-2. Can let user type in link(s) for their ideal products.       
-3. Can detect good-quality products in Target, Walmart, yamibuy, officedepot.    
+2. This project can help you detect the process of product in a while loop, it will send you email automatically and repeatedly until you shuts down the program.     
+3. This project can automaticly detect and update 5 best-seller links from best-seller products page (like the link below: https://www.amazon.com/Best-Sellers-Industrial-Scientific-Medical-Exam-Gloves/zgbs/industrial/8404645011) for 3 medical category in Amazon.      
 
 
 ## Demo   
-Demo video for current version can be viewed [here](https://www.youtube.com/watch?v=lhLaC7M329c&feature=youtu.be).         
+Demo video for current version can be viewed [here](https://www.youtube.com/watch?v=iWX8yRLhQ8w&feature=youtu.be).     
+Demo video for V2 can be viewed [here](https://www.youtube.com/watch?v=lhLaC7M329c&feature=youtu.be).         
 Demo video for V1 can be viewed [here](https://www.youtube.com/watch?v=4Alm5tWSpkE&feature=youtu.be).       
 
 ### Images gallery    
@@ -28,8 +27,9 @@ Content of email will be looked like below:
 ![v1-img1](img/result1.PNG)       
 
 Current attachment looks like below:     
-![v1-img3](img/attach1.PNG)      
-Previous attachment looks like below:    
+![v1-img4](img/attach3.PNG)     
+Previous attachment looks like below:   
+![v1-img3](img/attach1.PNG)     
 ![v1-img2](img/result2.PNG)     
 
 
