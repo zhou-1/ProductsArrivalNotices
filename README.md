@@ -23,9 +23,14 @@ Demo video for current version can be viewed [here](https://www.youtube.com/watc
 Demo video for V1 can be viewed [here](https://www.youtube.com/watch?v=4Alm5tWSpkE&feature=youtu.be).       
 
 ### Images gallery    
-Demo images for this project can viewed below:     
+Demo images for this project can viewed below.     
+Content of email will be looked like below:    
 ![v1-img1](img/result1.PNG)       
-![v1-img2](img/result2.PNG)    
+
+Current attachment looks like below:     
+![v1-img3](img/attach1.PNG)      
+Previous attachment looks like below:    
+![v1-img2](img/result2.PNG)     
 
 
 ## How to set up this project?    
