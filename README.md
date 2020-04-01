@@ -42,21 +42,18 @@ First, please clone/download my project.
 git clone https://github.com/zhou-1/productsArrivalNotices.git    
 ```
 
-Second, in main_program_V1/main.py file, add in your own gmail address, password of your gmail, and email address you would like to send email to.   
+Second, in main_program_V3/info.txt file,add in your own gmail address, password of your gmail, and email address you would like to send email to.   
 ```
-# email address used to send to; any email address is fine
-TO = 'XXXXX@outlook.com'
-# Gmail Sign In
-gmail_sender = 'XXXX@gmail.com'
-gmail_passwd = 'XXXXXX'
+TO=/XXXXX@outlook.com/
+gmail_sender=/XXXXXXX@gmail.com/
+gmail_passwd=/**********/
 ```
-You can also change the contents for subject, text of email if you like:    
+
+Third (optional), in main_program_V3/main.py file, you can also change the contents for subject, text of email if you like:    
 ```
 # email subject
 SUBJECT = 'Here is the summary for products you are interested in!!'
 # contents of email
-# TEXT = 'Product of below link is in stock currently: ' + str(url) 
-# error may be number/size of text
 # Send an attachment for report
 TEXT = "Please download the attached txt file for your report."
 ```
@@ -65,7 +62,7 @@ Third, in your terminal, type in:
 ```
 python main.py     
 ```
-The program will run automatically and send report as attachment to your email.    
+The program will run automatically and repeatedly; everytime when my program finishes one round, it will send an email with report as attachment to your "receive" email.     
 
 ### What you need?     
 Python 3     
@@ -75,6 +72,8 @@ Libraries needed in Python:
 3. smtplib        
 4. email      
 5. lxml    
+6. re    
+7. sys   
 
 
 ## Core parts   
