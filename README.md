@@ -29,8 +29,10 @@ Demo images for this project can viewed below.
 <b>Current attachment looks like below:</b>         
 ![v1-img4](img/attach2.PNG)     
      
-Previous attachment looks like below:   
+Previous attachment looks like below:    
+Version 2:    
 ![v1-img3](img/attach1.PNG)     
+Version 1:    
 ![v1-img2](img/result2.PNG)     
 
 
