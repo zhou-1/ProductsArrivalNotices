@@ -1,4 +1,5 @@
 During this serious Coronavirus period, hope my Arrival Notices project for products (like surgical mask :mask:, hand sanitizer :open_hands:, Medical Exam Gloves :snowman:) in market (Amazon) can help a little bit. :heart:    
+Ppl can also add in amazon links for their favorite products like toliet paper, switch if they like.     
 
 <hr>   
 
